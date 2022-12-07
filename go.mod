@@ -6,8 +6,8 @@ require (
 	github.com/AlecAivazis/survey/v2 v2.3.2
 	github.com/alessio/shellescape v1.4.1
 	github.com/cheggaaa/pb/v3 v3.0.8
-	github.com/containerd/containerd v1.5.9
-	github.com/containerd/continuity v0.2.2
+	github.com/containerd/containerd v1.5.16
+	github.com/containerd/continuity v0.3.0
 	github.com/coreos/go-semver v0.3.0
 	github.com/digitalocean/go-qemu v0.0.0-20210326154740-ac9e0b687001
 	github.com/diskfs/go-diskfs v1.2.0
@@ -27,13 +27,13 @@ require (
 	github.com/spf13/cobra v1.3.0
 	github.com/xorcare/pointer v1.1.0
 	github.com/yalue/native_endian v1.0.2
-	golang.org/x/sys v0.0.0-20211205182925-97ca703d548d
+	golang.org/x/sys v0.0.0-20220722155257-8c9f86f7a55f
 	gopkg.in/yaml.v2 v2.4.0
 	gotest.tools/v3 v3.1.0
 )
 
 require (
-	github.com/Microsoft/go-winio v0.5.1 // indirect
+	github.com/Microsoft/go-winio v0.5.2 // indirect
 	github.com/VividCortex/ewma v1.1.1 // indirect
 	github.com/digitalocean/go-libvirt v0.0.0-20201209184759-e2a69bcd5bd1 // indirect
 	github.com/fatih/color v1.13.0 // indirect
@@ -43,6 +43,7 @@ require (
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kr/fs v0.1.0 // indirect
+	github.com/kr/pretty v0.2.1 // indirect
 	github.com/mattn/go-colorable v0.1.12 // indirect
 	github.com/mattn/go-runewidth v0.0.12 // indirect
 	github.com/mgutz/ansi v0.0.0-20170206155736-9520e82c474b // indirect
